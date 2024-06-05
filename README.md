@@ -2,7 +2,7 @@
 
 
 
-This is the repository for paper "__Light Field Compression via Compact Neural Scene Representation__"  (__ICASSP 2022__).
+This is the repository for paper "__Light Field Compression via Compact Neural Scene Representation__"  (__ICASSP 2023__).
 
 By [Jinglei Shi](https://jingleishi.github.io/) and  [Christine Guillemot](https://people.rennes.inria.fr/Christine.Guillemot/)
 
@@ -29,7 +29,7 @@ Another two projects related to this work will be released soon, they are:
 
 [MKLFC (arXiv-2307.06143)](https://github.com/JingleiSHI/KMLFC)
 
-[DDLF (TIP-2023)]()
+[DDLF (TIP-2023)](https://github.com/JingleiSHI/DDLF)
 
 Feel free to use and cite them!
 
