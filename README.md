@@ -14,26 +14,24 @@ python==3.x
 pytorch==1.xx
 torchvision==xxx
 ```
-## Examples
-### Preparation of the dataset
 
-### Training
-Before launching the training, we should adapt the configuration (Lines 12 - 30) of the file 'train.py' as follows:
+## Training
+Coming soon
 
-After configuring all settings, users can simply launch the training by:
-```
-python train.py
-```
+## Evaluation
+Coming soon
 
-### Evaluation
-To synthesize dense light fields with given corner views, users should adapt the configuration (Lines 12-19) of the file 'test.py' as follows:
+## Pretrained Models
+Coming soon
 
-After configuring the above settings, users can launch the test by:
-```
-python test.py
-```
+## Related Projects
+Another two projects related to this work will be released soon, they are:
 
-### Pretrained Models
+[MKLFC (arXiv-2307.06143)](https://github.com/JingleiSHI/KMLFC)
+
+[DDLF (TIP-2023)]()
+
+Feel free to use and cite them!
 
 
 ## Citation
